@@ -1,10 +1,7 @@
 from env import Environment
 #from agent import Agents
 #from greedyagent import GreedyAgents as Agents
-#from version1 import AgentsVersion2 as Agents
-#from astaragent import OptimalAStarAgent as Agents
-#from bfs_greedy import AStarOptimalAgent as Agent
-from greedy_agent_optimal import GreedyAgentsOptimal as Agents
+from astaragent import OptimalAStarAgent as Agents
 
 import numpy as np
 
